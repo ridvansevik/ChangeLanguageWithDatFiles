@@ -1,0 +1,19 @@
+EN:Welcome:Welcome to the app
+EN:Enter:Enter to the app
+EN:ChangeLanguage:Change language
+EN:Entered:You have entered the app.
+EN:InvalidSelection:Invalid selection. Please try again.
+EN:InvalidInput:Please enter a valid number.
+EN:PressEnterToContinue: Press Enter To Continue
+EN:SelectLanguage: Select Language
+EN:LanguageChanged: Language Changed
+
+TR:Welcome:Uygulamaya hoş geldiniz
+TR:Enter:Uygulamaya giriş yap
+TR:ChangeLanguage:Dili değiştir
+TR:Entered:Uygulamaya giriş yaptınız.
+TR:InvalidSelection:Geçersiz seçim. Lütfen tekrar deneyin.
+TR:InvalidInput:Lütfen geçerli bir sayı girin.
+TR:PressEnterToContinue:Devam etmek için Enter'a basın.
+TR:SelectLanguage:Dil Seç. 
+TR:LanguageChanged: Dil Değişti. 
